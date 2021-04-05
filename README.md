@@ -1,4 +1,4 @@
-###### h6 Wasovski.git
+###Wasovski.git
 The simple lw remake for new pasters.
 
 The first source code will be avaible in 10 March 2021 Year
