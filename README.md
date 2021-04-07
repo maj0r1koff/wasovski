@@ -9,7 +9,7 @@ Todo :
 [Trello Todo](https://trello.com/b/0WHSo9bJ/wasovskigit)
 
 Model Changer Models:
-[Download](http://www.filedropper.com/wasovskimodels)
+[Download]()
 
 Change Log:
 Lol not now)
