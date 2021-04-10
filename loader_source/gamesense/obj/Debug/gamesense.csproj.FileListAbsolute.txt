@@ -1,0 +1,22 @@
+C:\Users\Danil Grachov\Desktop\gamesense\bin\Debug\gamesense.exe.config
+C:\Users\Danil Grachov\Desktop\gamesense\bin\Debug\gamesense.exe
+C:\Users\Danil Grachov\Desktop\gamesense\bin\Debug\gamesense.pdb
+C:\Users\Danil Grachov\Desktop\gamesense\obj\Debug\gamesense.csprojAssemblyReference.cache
+C:\Users\Danil Grachov\Desktop\gamesense\obj\Debug\gamesense.Properties.Resources.resources
+C:\Users\Danil Grachov\Desktop\gamesense\obj\Debug\gamesense.csproj.GenerateResource.cache
+C:\Users\Danil Grachov\Desktop\gamesense\obj\Debug\gamesense.csproj.CoreCompileInputs.cache
+C:\Users\Danil Grachov\Desktop\gamesense\obj\Debug\gamesense.exe
+C:\Users\Danil Grachov\Desktop\gamesense\obj\Debug\gamesense.pdb
+C:\Users\Danil Grachov\Desktop\gamesense\obj\Debug\gamesense.Form1.resources
+C:\Users\Danil Grachov\Desktop\gamesense\obj\Debug\gamesense.Form2.resources
+C:\Users\Danil Grachov\Desktop\gamesense\obj\Debug\gamesense.Form3.resources
+C:\Users\1025\Desktop\Loader\gamesense\obj\Debug\gamesense.Form2.resources
+C:\Users\1025\Desktop\Loader\gamesense\obj\Debug\gamesense.Form3.resources
+C:\Users\1025\Desktop\Loader\gamesense\obj\Debug\gamesense.Properties.Resources.resources
+C:\Users\1025\Desktop\Loader\gamesense\obj\Debug\gamesense.csproj.GenerateResource.cache
+C:\Users\1025\Desktop\Loader\gamesense\obj\Debug\gamesense.csproj.CoreCompileInputs.cache
+C:\Users\1025\Desktop\Loader\gamesense\obj\Debug\gamesense.exe
+C:\Users\1025\Desktop\Loader\gamesense\obj\Debug\gamesense.pdb
+C:\Users\1025\Desktop\Loader\gamesense\bin\Debug\gamesense.exe.config
+C:\Users\1025\Desktop\Loader\gamesense\bin\Debug\gamesense.exe
+C:\Users\1025\Desktop\Loader\gamesense\bin\Debug\gamesense.pdb
