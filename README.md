@@ -1,9 +1,5 @@
 ## Wasovski.git
-The simple lw remake for new pasters.
-
-The first source code will be avaible in 10 April 2021 Year
-
-Now project in developing
+The simple lw remake.
 
 Todo :
 [Trello Todo](https://trello.com/b/0WHSo9bJ/wasovskigit)
@@ -12,4 +8,11 @@ Model Changer Models:
 [Download](http://www.filedropper.com/csgo_13)
 
 Change Log:
-Lol not now)
+Update log :
+Added low-delta resolver
+Added custom player models
+Added new autopeek
+Adden new Scope Removal
+Reworked sdk
+Addded new doubletap
+Some changes in menu
